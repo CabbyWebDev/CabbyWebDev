@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">fsafsdafsafsdffdsfsadfdsfsdadsfsdfsadfsd</p>
+<p align="left">Hey! I'm a passionate junior web developer and technology enthusiast. I have recently graduated as a web developer and I'm excited about starting my new career in this field. I enjoy solving problems and learning new things.</p>
 
 ###
 
