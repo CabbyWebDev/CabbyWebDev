@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey! I'm a junior web developer and technology enthusiast. I have recently graduated as a web developer and I'm excited about starting my new career in this field. I enjoy solving problems and learning new things and I'm willing to learn and develop my own skills further.</p>
+<p align="left">Hey! I'm a junior full stack web developer and technology enthusiast. I have recently graduated as a web developer and I'm excited about starting my new career in this field. I enjoy solving problems and learning new things and I'm willing to learn and develop my own skills further.</p>
 
 ###
 
